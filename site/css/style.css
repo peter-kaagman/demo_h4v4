@@ -1,0 +1,39 @@
+.container{
+	display: flex;
+	flex-direction: column;
+	width: 80%;
+	margin: auto;
+}
+header{
+	background-color: red;
+}
+nav{
+	background-color: lightblue;
+	margin:auto;
+	width: auto;
+}
+main{
+	background-color: red;
+	display: flex;
+}
+.sidebar{
+	background-color: purple;
+	flex: 1;
+	margin: 10px;
+}
+.content{
+	background-color: lightgrey;
+	flex: 3;
+	margin: 10px;
+}
+footer{
+	background-color: yellow;
+}
+li.menu{
+	display: inline;
+}
+a.current{
+	pointer-events: none;
+	cursor: default;
+	text-decoration: none;
+}
