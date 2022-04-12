@@ -34,6 +34,7 @@ Elke pagina van de site zal bestaan uit minimaal een 4-tal containers:
 2. Nav
 3. Main
 4. Footer
+
 De header, nav en footer zijn op elke pagina gelijk van opmaak. In de container main zal de specifieke inhoud van die pagina komen te staan. 
 ### Header
 Hierin komt de titel van de site met een logo
