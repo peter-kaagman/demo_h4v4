@@ -9,10 +9,11 @@ Deze demonstreert het maken van een webiste gebruikmakend van statische HTML5 pa
 - Er is een info/blog over de makers
 - Minimaal 4 HTML pagina's
 - Eenduidige opmaak via een extern CSS bestand.
-- Er is gebruik gemaakt van multi-media
-- Er is gebruik gemaakt van een tabel
-- Er is gebruik gemaakt van het CSS box model
-- Er is een duidelijke mappenstructuur, voor plaatjes en CSS.
+- Er is gebruik gemaakt van
+  - multi-media
+  - een tabel
+  - het CSS box model
+  - duidelijke mappenstructuur, voor plaatjes en CSS.
 ### Het ondewerp van de site zelf
 Het onderwerp van de site zijn de boeken uit het Dune universum. Deze boeken zijn geschreven door Frank Herbert en zijn zoon. Voor wat betreft de planning hanteer ik de MoSCoW methode: Must haves, should haves, could haves en won't haves. Zie ook [Wikipedia](https://nl.wikipedia.org/wiki/MoSCoW-methode)
 ![MoSCoW](/assets/moscow.jpg)
