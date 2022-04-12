@@ -28,4 +28,22 @@ Ik heb nog geen idee over could haves
 ## Gebruikte technieken
 - De site is gemaakt met HTML5 en CSS. Voor de layout van de site wordt gebruikt gemaakt van CSS flexboxen.
 - Github zal gebruikt worden als repository voor de bestanden.
-## Evaluatie
+## Ontwerp
+Elke pagina van de site zal bestaan uit minimaal een 4-tal containers:
+1. Header
+2. Nav
+3. Main
+4. Footer
+De header, nav en footer zijn op elke pagina gelijk van opmaak. In de container main zal de specifieke inhoud van die pagina komen te staan. 
+### Header
+Hierin komt de titel van de site met een logo
+### Nav
+Hierin komt het menu te staan. De link naar de huidige pagina zal inaktief zijn. Geplande pagina's:
+- Home: bevat een kleine inleiding en een opsomming in een tabel met alle boeken
+- Schrijvers: een pagina met een item per autheur.
+- Films: een pagina met informatie over de films over het Dune universum
+- Over mij: een stukje over de maker van de site
+### Main
+De container main bevat de specifieke inhoud van de pagina en is dus het enige deel wat verschillend is per pagina. Afgezien van het inactieve menu item voor de huidige pagina.
+### Footer
+In de footer komt een colofoon te staan hoe de maker van de site bereikt kan worden.
