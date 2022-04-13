@@ -27,7 +27,8 @@ Het onderwerp van de site zijn de boeken uit het Dune universum. Deze boeken zij
 - De site moet een beschrijving geven van alle autheurs.
 
 #### Should haves
-Ik heb nog geen idee over should haves
+- Een Universum tijdlijn gebasseerd het ontstaan van het ruimte gilde.
+- Een uitgifte tijdlijn gebasseerd op uitgift boek of film.
 
 #### Could haves
 Ik heb nog geen idee over could haves
