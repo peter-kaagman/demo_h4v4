@@ -15,8 +15,8 @@ Deze demonstreert het maken van een webiste gebruikmakend van statische HTML5 pa
   - het CSS box model
   - duidelijke mappenstructuur, voor plaatjes en CSS.
 ### Het ondewerp van de site zelf
-Het onderwerp van de site zijn de boeken uit het Dune universum. Deze boeken zijn geschreven door Frank Herbert en zijn zoon. Voor wat betreft de planning hanteer ik de MoSCoW methode: Must haves, should haves, could haves en won't haves. Zie ook [Wikipedia](https://nl.wikipedia.org/wiki/MoSCoW-methode)
 <img src="assets/moscow.jpg" alt="MoSCoW methode" height="200">
+Het onderwerp van de site zijn de boeken uit het Dune universum. Deze boeken zijn geschreven door Frank Herbert en zijn zoon. Voor wat betreft de planning hanteer ik de MoSCoW methode: Must haves, should haves, could haves en won't haves. Zie ook [Wikipedia](https://nl.wikipedia.org/wiki/MoSCoW-methode)
 #### Must haves
 - De site moet een overzicht geven van alle boeken uit het Dune universum.
 - De site moet een beschrijving geven van alle autheurs.
