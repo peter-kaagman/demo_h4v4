@@ -31,13 +31,16 @@ Ik heb nog geen idee over could haves
 - De site is gemaakt met HTML5 en CSS. Voor de layout van de site wordt gebruikt gemaakt van CSS flexboxen.
 - Github zal gebruikt worden als repository voor de bestanden.
 ## Ontwerp
-Elke pagina van de site zal bestaan uit minimaal een 4-tal containers:
+<img src="assets/SchermLayout.jpg" alt="SchermLayout" height="400">
+Elke pagina van de site zal bestaan uit minimaal een 6-tal containers:
 1. Header
 2. Nav
 3. Main
+   1. Sidebar
+   2. Content
 4. Footer
 
-De header, nav en footer zijn op elke pagina gelijk van opmaak. In de container main zal de specifieke inhoud van die pagina komen te staan. 
+De header, nav en footer zijn op elke pagina gelijk van opmaak. In de container main zal de specifieke inhoud van die pagina komen te staan. De container main bevat een sidebar en een content container. Dit voornamelijk omdat ik een sidebar layout wil laten zien.
 ### Header
 Hierin komt de titel van de site met een logo
 ### Nav
